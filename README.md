@@ -7,6 +7,6 @@ Before you start, you have to setup the following:
 * Google Console Account (https://console.cloud.google.com/)
 * Setup a number in Twilio Account (When you sign up, twilio give some free credit, you can buy a number with that)
 * Setup your Bucket in Google Storage API 
-* Generate your Google Credentials JSON file in Google Console
+* Generate your Google Credentials JSON file in Google Console (Replace it in App_Data/Resources)
 
 
